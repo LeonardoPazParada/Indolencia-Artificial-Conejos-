@@ -1,2 +1,2 @@
-# Inteligencia-Artificial-Conejos-
+# Indolencia-Artificial-Conejos-
 AI de comportamiento con conejos en Unity3d
